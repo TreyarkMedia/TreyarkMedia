@@ -1,4 +1,4 @@
-- 👋 Hi, We are @TreyarkMedia
+- 👋 Hi, we are Treyark Media
 
 
 <!---
